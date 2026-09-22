@@ -39,4 +39,4 @@ console.log(`Quantidade: ${produto.quantidade}`);
 console.log(`Estoque Minimo: ${produto.EstoqueMinimo}`);
 console.log(`situacao: ${situacao}`);
 console.log("-".repeat(20));
-}
+}  
